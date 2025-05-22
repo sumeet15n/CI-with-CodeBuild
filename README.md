@@ -14,7 +14,10 @@ In this project, I set up CodeBuild to automate the build process of my CI/CD pi
 
 ### Concepts Learnt
 
-- 
+- Creating CodeBuild projects
+- Writing buildspec.yml file
+- Connecting GitHub with AWS
+- Starting builds and troubleshooting errors
 
 ### Architecture Diagram
 
